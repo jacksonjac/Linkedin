@@ -1,0 +1,387 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fullline{
+    border-bottom: 2px solid blue;  
+}
+.full
+{
+    width: 100%;
+}
+.half
+{
+    width: 83%;
+    margin: 0 auto;
+}
+.flex-main{
+    display: flex;
+}
+.head-split{
+    width: 100%;
+    padding: 20px 0;
+
+}
+.logotext p{
+    float: left;
+    font-size: 18px;
+    padding-left: 10px;
+    color: #888585;
+    padding-top: 5px;
+    
+}
+.logotext img{
+    width: 84px;
+    height: 21px;
+    float: left;
+}
+.uploadbutton{
+    padding-left: 386px;
+    
+
+}
+.uploadbutton button:hover{
+    background-color: brown;
+    cursor: pointer;
+    color: aliceblue;
+}
+.uploadbutton button {
+    width: 104px;
+    height: 27px;
+    background-color: white;
+    color: blue;
+    border: 1px solid;
+}
+.uploadbutton img{
+    width: 20px;
+    height: 20px;
+    padding-left: 10px;
+
+}
+.content-split{
+    width: 100%;
+ 
+    
+}
+.content-split h2{
+    font-size: 55px;
+    font-family: 'Quicksand', sans-serif;
+}
+.leftcontent p{
+    font-size: 25px;
+    color: #565454;
+    padding-top: 46px;
+}
+.leftcontent button {
+    width: 166px;
+    height: 42px;
+    color: #f3f3f9;
+    background-color:#0073b1;
+    border: 1px solid #0073b1;
+    margin-top: 21px;
+    margin-bottom: 86px;
+    font-weight: bolder;
+    font-size: 16px;
+
+
+    
+}
+.banner
+{
+    background-color: #d3d3d3;
+}
+.leftcontent{
+    padding-left: 113px;
+    padding-top: 78px;
+
+}
+.rightcontent{
+    background-color: #565454;
+}
+.rightcontent img{
+    height: 403px;
+    float: right;
+    padding-top: 15px;
+}
+.half h1{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top: 51px;
+    font-size: 43px;
+    color: #2d2c2c;
+    padding-bottom: 31px;
+
+}
+.box1{
+    padding: 12px;
+    width:100%;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-bottom: 75px;
+}
+.box1 img {
+    height: 167px;
+    width: 100%;
+    
+}
+.parabox h2{
+    font-size: 42px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    color: #565454;
+
+}
+.parabox h4{
+    font-size: 22px;
+    width: 100%;
+    font-family: 'Quicksand', sans-serif;
+    color: #332e2e;
+    
+    padding-bottom: 69px;
+}
+.parabox a{
+    font-size: 24px;
+    color: #0073b1;
+    text-decoration: none;
+    
+}
+.parabox{
+    
+    width: 100%;
+}
+.paracolor{
+    background-color: #fdfaf5;
+}
+.mobile{
+    background-color: #fdfaf5;
+    height: 600px;
+}
+.mobileimg{
+    width: 40%;
+    float: left;
+    
+}
+.listed{  
+    width: 60%;
+    float:right;
+}
+.mobileimg img{
+    padding-left: 48px; 
+    height: 583px;
+    
+}
+.listed h3{
+   
+    padding-top: 154px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 28px;
+    padding-bottom: 53px;
+    font-weight: bold;
+    color: #565454;
+
+    
+}
+.listed ul{
+    font-size: 15px;
+    font-family: 'Quicksand', sans-serif ;
+    padding-left: 44px;
+}
+.listed li{
+    padding:15px;
+}
+.orderbox{
+    width: 100%;
+}
+.graph{
+    width: 100%;
+}
+.graphcolour{
+    background-color: #faf1e2;
+}
+.orderbox h3{
+    padding-top: 70px;
+    font-family: 'Quicksad', sans-serif;
+    padding-bottom: 67px;
+    font-size: 25px;
+    color: #565454;
+
+}.orderbox ul{
+    font-size: 15px;
+    font-family: 'Quicksand', sans-serif ;
+    padding-left: 44px;
+}
+.orderbox li{
+    padding:15px;
+    
+}
+.graph img{
+    padding-top: 37px;
+    padding-bottom: 64px;
+}
+.feedbox{
+    width: 100%;
+
+}
+.feedbox img{
+    height: 519px;
+    padding-left: 32px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.listof{
+    width: 100%;
+}
+.feedcolor{
+    background-color: #fdfaf5;
+}
+.listof h3{
+    font-family: 'Quicksad', sans-serif;
+    font-size: 25px;
+    padding-top: 176px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    color: #565454;
+}
+.listof li{
+    padding: 15px;
+}
+.listof ul{
+    font-size: 15px;
+    font-family: 'Quicksand', sans-serif ;
+    padding-left: 69px;
+}
+.listof a{
+    text-decoration: none;
+    font-size:large;
+}
+.paragraphs h2{
+    font-size: 35px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding-bottom: 20px;
+    padding-top: 64px;
+    color: #565454;
+}
+.paragraphs h5 {
+    font-size: 22px;
+    font-family:'Source Sans Pro', sans-serif;
+    padding-bottom:20px;
+    padding-top: 8px;
+    color: #0a0a0a;
+    padding-bottom: 52px;
+}
+.paragraphs a{
+    text-decoration: none;
+    font-weight: bolder;
+}
+.row{
+    width: 100%;
+    text-align: center;
+    font-size: 14px;
+    font-family: 'Saira Condensed', sans-serif;
+    color: #0a0a0a;
+    font-weight: bold;
+    
+   
+}
+.divide{
+    display: flex;
+   
+}
+
+.half2{
+    width: 63%;
+    margin: 0 auto;
+   
+
+}
+.halfcopy{
+    width: 83%;
+    margin: 0 auto;
+    border-bottom:2px solid rgb(144, 144, 146) ;
+   
+}
+.measure{
+    width: 100%;
+
+}
+.pointgraph{
+    width: 100%;
+}
+.measure h4{
+    padding-top: 42px;
+    font-family: 'Saira Condensed', sans-serif;
+    
+    font-size: 26px;
+    
+}
+.measure h5{
+    font-size:20px;
+    font-family: 'Saira Condensed', sans-serif;
+    padding-top: 20px;
+}
+.pointgraph img{
+    height: 315px;
+    padding-top: 40px;
+    padding-bottom: 36px;
+    width: 525px;
+}
+.parabussines h2{
+    width: 100%;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 41px;
+    padding-top: 20px;
+}  
+.business{
+    background-color: #b4c6d9;
+}
+.buttons button{
+    background-color: #0073b1;
+    height: 35px;
+    width: 179px;
+    border: #0073b1;
+    color: #fdfaf5;
+    font-size: 17px;
+    margin:0 5px;
+}
+.button2{
+    padding: 5px;
+}
+.buttons{
+    padding-top: 20px;
+    padding-left: 341px;
+    padding-bottom: 40px;
+}
+.footer ul{
+    text-align: center;
+    padding-top: 12px;
+    
+    
+}
+.footer li{
+    display: inline;
+    list-style: none;
+    padding: 15px;
+    font-size: 12px;    
+    
+}
+.footer img{
+    width: 50px;
+    height: 18px;
+    float: left;
+}
+.copyright{
+    padding-left: 528px;
+    padding-top: 13px;
+    font-size: 14px;
+
+}
+.parass p{
+    font-size: 12px;
+    padding-top: 5px;
+}
+.logos img{
+    width: 202px;
+    height: 80px;
+    float: left;
+}
